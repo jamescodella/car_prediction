@@ -1,7 +1,6 @@
 appnope==0.1.0
+astroid==2.4.2
 attrs==19.3.0
-backcall @ file:///home/conda/feedstock_root/build_artifacts/backcall_1592338393461/work
-bleach @ file:///home/conda/feedstock_root/build_artifacts/bleach_1588608214987/work
 certifi==2020.6.20
 chardet==3.0.4
 click==7.1.2
@@ -11,38 +10,32 @@ defusedxml==0.6.0
 entrypoints==0.3
 Flask==1.1.2
 idna==2.10
-importlib-metadata @ file:///Users/runner/miniforge3/conda-bld/importlib-metadata_1593211384223/work
 ipdb==0.12
-ipykernel @ file:///Users/runner/miniforge3/conda-bld/ipykernel_1595101348406/work/dist/ipykernel-5.3.3-py3-none-any.whl
-ipython @ file:///Users/runner/miniforge3/conda-bld/ipython_1593235463433/work
 ipython-genutils==0.2.0
+isort==4.3.21
 itsdangerous==1.1.0
-jedi @ file:///Users/runner/miniforge3/conda-bld/jedi_1595018286626/work
 Jinja2==2.11.2
 joblib==0.16.0
 jsonify==0.5
 jsonschema==3.2.0
-jupyter-client @ file:///home/conda/feedstock_root/build_artifacts/jupyter_client_1594732094290/work
 jupyter-core==4.6.3
 kiwisolver==1.2.0
+lazy-object-proxy==1.4.3
 MarkupSafe==1.1.1
 matplotlib==3.3.0
+mccabe==0.6.1
 mistune==0.8.4
 nbconvert==5.6.1
-nbformat @ file:///home/conda/feedstock_root/build_artifacts/nbformat_1594060262917/work
-notebook @ file:///Users/runner/miniforge3/conda-bld/notebook_1594078853920/work
 numpy==1.19.0
-packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1589925210001/work
 pandas==1.0.5
 pandocfilters==1.4.2
 parso==0.7.0
 pexpect==4.8.0
 pickleshare==0.7.5
 Pillow==7.2.0
-prometheus-client @ file:///home/conda/feedstock_root/build_artifacts/prometheus_client_1590412252446/work
-prompt-toolkit @ file:///home/conda/feedstock_root/build_artifacts/prompt-toolkit_1592500439797/work
 ptyprocess==0.6.0
 Pygments==2.6.1
+pylint==2.5.3
 pyparsing==2.4.7
 pyrsistent==0.16.0
 python-dateutil==2.8.1
@@ -53,15 +46,16 @@ scikit-learn==0.23.1
 scipy==1.5.1
 seaborn==0.10.1
 Send2Trash==1.5.0
-six @ file:///home/conda/feedstock_root/build_artifacts/six_1590081179328/work
 sklearn==0.0
 terminado==0.8.3
 testpath==0.4.4
 threadpoolctl==2.1.0
+toml==0.10.1
 tornado==6.0.4
 traitlets==4.3.3
+typed-ast==1.4.1
 urllib3==1.25.9
-wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1592931742287/work
 webencodings==0.5.1
 Werkzeug==1.0.1
+wrapt==1.12.1
 zipp==3.1.0
